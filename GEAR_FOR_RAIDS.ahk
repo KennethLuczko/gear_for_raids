@@ -13,7 +13,7 @@ SetBatchLines -1
 
 F8::ExitApp
 
-F5::
+F5:: ; THEATER OF BLOOD
 {
 WinActivate, OpenOSRS ahk_class SunAwtFrame
 Sleep, 333
@@ -1696,7 +1696,7 @@ Return
 }
 
 
-F6::
+F6:: ; CHAMBERS OF XERIC
 {
 WinActivate, OpenOSRS ahk_class SunAwtFrame
 Sleep, 333
